@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My name is Adedokun Adu. I am an aspiring DevOps Engineer
 
 Find out more about me & feel free to connect with me here:
 
